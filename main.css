@@ -1,0 +1,61 @@
+body{
+	margin: 0px;
+}
+.site_banner{
+	border: solid black;
+	border-top-width: 8px;
+	border-bottom-width: 1px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	text-align: center;
+}
+h3{
+	font-family: Basier sans-serif;
+	font-weight: bold;
+	size: 14px;
+	color: #de2f23;
+	letter-spacing: 1px;
+}
+.story_copy{
+	max-width: 900px;
+	margin-left: 5%;
+	margin-right: 5%;
+	font-family: Pensum sans-serif;
+	font-size: 20px;
+}
+.story_header{
+	font-family: Basier sans-serif;
+	size: 20px;
+}
+h1{
+	bottom-margin: 0px;
+	size: 46px;
+}
+.byline{
+	font-weight: bold;
+}
+.photo{
+	width: 100%;
+}
+.photo_caption{
+	color: gray;
+	sixe: 14px;
+	margin-top: 0%;
+}
+.footer{
+	font-family: Basier sans-serif;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.footer_info{
+	color: gray;
+	size: 14px;
+}
+.link{
+	color: black;
+}
+.link:hover{
+	color: red;
+}
